@@ -1,2 +1,2 @@
 # ICMSTaxFraudDetection
-Neural Network for Rio de Janeiro ICMS tax fraud detection
+Neural Network for Rio de Janeiro State ICMS tax fraud detection
